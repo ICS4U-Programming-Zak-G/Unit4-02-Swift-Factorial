@@ -1,0 +1,5 @@
+The factorial of 5 is 120 
+The factorial of 12 is 479001600 
+ is not an integer
+-2 is not a positive integer
+hi is not an integer
